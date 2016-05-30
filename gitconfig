@@ -1,0 +1,7 @@
+[user]
+        name = Himanshu Neema
+        email = himanshun.iitkgp@gmail.com
+[push]
+        default = simple
+[merge]
+        conflictstyle = diff3
