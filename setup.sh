@@ -4,3 +4,4 @@
 ./install_oh_my_zsh.sh
 ./setup_path.sh
 ./setup_shell.sh
+./install_rvm_and_latest_ruby.sh
