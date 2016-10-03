@@ -9,6 +9,8 @@ brew install tig
 brew install tmux
 brew install gpg 
 
+brew install gdb
+
 # GNU utilities
 brew install coreutils
 
