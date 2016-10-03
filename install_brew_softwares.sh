@@ -13,5 +13,7 @@ brew install gdb
 
 # GNU utilities
 brew install coreutils
+# GNU grep ( installed with g prefix )
+brew install homebrew/dupes/grep
 
 brew update
