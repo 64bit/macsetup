@@ -15,5 +15,6 @@ brew install gdb
 brew install coreutils
 # GNU grep ( installed with g prefix )
 brew install homebrew/dupes/grep
+brew install gnu-sed
 
 brew update
