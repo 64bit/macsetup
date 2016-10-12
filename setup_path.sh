@@ -5,3 +5,6 @@ echo 'export ANDROID_HOME=~/Library/Android/sdk' >> ~/.zshrc
 
 #GO LANG
 echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.zshrc
+
+# PYTHON tab complete
+echo 'export PYTHONSTARTUP=~/.pythonrc' >> ~/.zshrc
