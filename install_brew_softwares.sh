@@ -17,4 +17,8 @@ brew install coreutils
 brew install homebrew/dupes/grep
 brew install gnu-sed
 
+# Python
+brew install python
+brew install homebrew/python/numpy
+
 brew update
