@@ -21,4 +21,8 @@ brew install gnu-sed
 brew install python
 brew install homebrew/python/numpy
 
+# Erlang
+brew install rebar3
+brew install kerl
+
 brew update
