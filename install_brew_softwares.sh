@@ -10,6 +10,7 @@ brew install tmux
 brew install gpg 
 
 brew install gdb
+brew install watch
 
 # GNU utilities
 brew install coreutils
