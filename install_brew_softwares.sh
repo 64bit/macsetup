@@ -8,7 +8,7 @@ brew install mysql
 brew install tig
 brew install tmux
 brew install gpg 
-
+brew install ffmpeg
 brew install gdb
 
 # GNU utilities
