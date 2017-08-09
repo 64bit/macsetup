@@ -10,6 +10,7 @@ brew install tmux
 brew install gpg 
 brew install ffmpeg
 brew install gdb
+brew install watch
 
 # GNU utilities
 brew install coreutils
@@ -20,5 +21,9 @@ brew install gnu-sed
 # Python
 brew install python
 brew install homebrew/python/numpy
+
+# Erlang
+brew install rebar3
+brew install kerl
 
 brew update
